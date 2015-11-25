@@ -7,7 +7,7 @@ import org.springframework.orm.hibernate4.support.OpenSessionInViewInterceptor
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
-@Configuration
+//@Configuration
 class WebMvcConfig extends WebMvcConfigurerAdapter {
 
     @Autowired
